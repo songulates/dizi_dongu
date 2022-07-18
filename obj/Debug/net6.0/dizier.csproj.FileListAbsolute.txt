@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\bin\Debug\net6.0\dizier.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\bin\Debug\net6.0\dizier.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\bin\Debug\net6.0\dizier.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\bin\Debug\net6.0\dizier.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\bin\Debug\net6.0\dizier.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\refint\dizier.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\dizier.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\dizier\obj\Debug\net6.0\ref\dizier.dll
